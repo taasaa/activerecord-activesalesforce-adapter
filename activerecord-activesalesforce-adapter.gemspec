@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name = "activerecord-activesalesforce-adapter"
   s.version = "2.3.4"
   s.authors = ["Doug Chasman","Luigi Montanez","Senthil Nayagam","Justin Ball","Jesse Hallett"]
-  s.date = "2009-7-14"
+  s.date = "2009-07-14"
   s.summary = %q{ActiveSalesforce (ASF) is a Rails connection adapter that provides direct access to Salesforce.com hosted data and metadata via the ActiveRecord model layer. Objects, fields, and relationships are all auto surfaced as active record attributes and rels.  }
   s.email = "michael@astrails.com"
   s.rubyforge_project = "http://rubyforge.org/projects/activesfdc/"
